@@ -20,3 +20,11 @@ http://104.156.58.3:1935/8010/8010/chunklist_w280190238.m3u8
 
 #EXTINF: -1 tvg-logo = "https://rbtv.com.br/upload_arquivos/2020/03/2020030618426001585009374.png"group-title ="TV ABERTA",REDE BRASIL
 https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1855218617.m3u8
+
+###############################################################################
+#EXTINF: -1 tvg-logo = "https://geo5.net/imagens/Bandeira-da-Africa-do-Sul.png" group-title = "AFRICA DO SUL",AFRICA DO SUL
+http://0.0.0.0
+ 
+#EXTINF: -1 tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/7585f276541e56006afb73f2e8fc4bb1.png"group-title ="AFRICA DO SUL",SCBC TV
+https://cdn-origin1.streamspot.com/ingest1/5b70d4ab87/chunklist.m3u8
+
