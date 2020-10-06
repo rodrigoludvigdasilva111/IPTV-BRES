@@ -15,5 +15,8 @@ http://www.hypebot.com/.a/6a00d83451b36c69e201bb0955aa16970d-600wi
 #EXTINF: -1 tvg-logo = "http://www.intelbras.com.br/sites/default/files/styles/segment_search_mosaic_large/public/camera-ip-vip-e4120-intelbras.png?itok=CjTnmLoF" group-title = "TV ABERTA",TV ABERTA
 http://0.0.0.0
  
-#EXTINF: -1 tvg-logo = "http://pa.srvsite.com/arquivos/4604/cabecalho-4604-20191229204343.jpg"group-title ="CAMERAS",TV LITORAL CAPÃO DA CANOA E REGIÃO
+#EXTINF: -1 tvg-logo = "http://pa.srvsite.com/arquivos/4604/cabecalho-4604-20191229204343.jpg"group-title ="TV ABERTA",TV LITORAL CAPÃO DA CANOA E REGIÃO
 http://104.156.58.3:1935/8010/8010/chunklist_w280190238.m3u8
+
+#EXTINF: -1 tvg-logo = "https://rbtv.com.br/upload_arquivos/2020/03/2020030618426001585009374.png"group-title ="TV ABERTA",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1855218617.m3u8
