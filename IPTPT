@@ -12,19 +12,19 @@ http://www.hypebot.com/.a/6a00d83451b36c69e201bb0955aa16970d-600wi
 http://www.hypebot.com/.a/6a00d83451b36c69e201bb0955aa16970d-600wi
  
 ###############################################################################
-#EXTINF: -1 tvg-logo = "http://www.intelbras.com.br/sites/default/files/styles/segment_search_mosaic_large/public/camera-ip-vip-e4120-intelbras.png?itok=CjTnmLoF" group-title = "TV ABERTA",TV ABERTA
+ 
+#EXTINF:-1 tvg-logo="http://auvaromaia.com/wp-content/uploads/2015/01/tvs_logos.jpg" group-title="CANAIS ABERTOS",CANAIS ABERTOS
 http://0.0.0.0
  
-#EXTINF: -1 tvg-logo = "http://pa.srvsite.com/arquivos/4604/cabecalho-4604-20191229204343.jpg"group-title ="TV ABERTA",TV LITORAL CAPÃO DA CANOA E REGIÃO
-http://104.156.58.3:1935/8010/8010/chunklist_w280190238.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/b0baf19518fb782525c37b40c2f5d9b5.png" group-title="CANAIS ABERTOS",REDE TV 1
+https://5b7f3c45ab7c2.streamlock.net/tvarapuan/ngrp:tvarapuan/chunklist_w1097326947_b2397049_DVR.m3u8
 
-#EXTINF: -1 tvg-logo = "https://rbtv.com.br/upload_arquivos/2020/03/2020030618426001585009374.png"group-title ="TV ABERTA",REDE BRASIL
-https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w1855218617.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/42174cd70ddce777c49b24aea7730341.png" group-title="CANAIS ABERTOS",TV REDE GOSPEL
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8
 
-###############################################################################
-#EXTINF: -1 tvg-logo = "https://geo5.net/imagens/Bandeira-da-Africa-do-Sul.png" group-title = "AFRICA DO SUL",AFRICA DO SUL
-http://0.0.0.0
- 
-#EXTINF: -1 tvg-logo = "http://www.cxtv.com.br/img/Tvs/Logo/7585f276541e56006afb73f2e8fc4bb1.png"group-title ="AFRICA DO SUL",SCBC TV
-https://cdn-origin1.streamspot.com/ingest1/5b70d4ab87/chunklist.m3u8
+#EXTINF:-1 tvg-id="http://www.cxtv.com.br/img/Tvs/Logo/cb1a59dce8657ee23c115cdfb72e302f.png" tvg-logo="" group-title="CANAIS ABERTOS",TV DIARIO
+https://stream-02.nyc.dailymotion.com/sec(IbeXB-fEZXft8Mu82uFOZeyvcqsvzbnOhsj8W_RGkXQ)/dm/3/x7txn7q/s/live-4.m3u8#cell=lnyc&qos_vpart=1&qos_stail=1&qos_geostore=1
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="CANAIS ABERTOS",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2097788647.m3u8
 
