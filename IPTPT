@@ -31,3 +31,14 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w2097788
 #EXTINF:-1 tvg-id="" tvg-logo="http://www.cxtv.com.br/img/Tvs/Logo/dcb3ff84b8f31ddc39ef213b42402f75.jpg" group-title="CANAIS ABERTOS",CANAL 29
 https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1945121777.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Cultura_logo_2013.svg/1200px-Cultura_logo_2013.svg.png" group-title="CANAIS ABERTOS",TV CULTURA
+http://hls.fm1.com.br:8080/hls/tvbaiana.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/f/fe/Rede_Brasil_Par%C3%A1_Logo.png" group-title="CANAIS ABERTOS",REDE BRASIL
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w730271133.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvmagazine.com.br/imagens/icones/600/tvabertasp.png" group-title="CANAIS ABERTOS",TV ABERTA SAO PAULO
+https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/chunklist_w782056124.m3u8
+
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-dNFpJZiuG58/W_aq_9LvG4I/AAAAAAAAEF0/b_U0sJAWs90BV-ki1XcekoyyrGRVVAhWgCLcBGAs/s640/logo-tcm10hd-rect.png" group-title="CANAIS ABERTOS",TCM- TV Cabo Mossoró
+https://live.tcm10.com.br/tcm10hd/stream.m3u8
