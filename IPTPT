@@ -45,3 +45,12 @@ https://live.tcm10.com.br/tcm10hd/stream.m3u8
 
 #EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-BGcqPmZ5tmg/W1Cxhx5eXII/AAAAAAAAw-A/aXHbP4RzcsA5ZhQ8760_4GYPdXjTdsxjQCLcBGAs/s1600/CLASSIQUE+TV.fw.png" group-title="CANAIS ABERTOS",CLASSIQUE TV
 http://stmv2.euroti.com.br:1935/classique/classique/live.m3u8
+
+###############################################################################
+ 
+#EXTINF:-1 tvg-logo="http://auvaromaia.com/wp-content/uploads/2015/01/tvs_logos.jpg" group-title="CANAIS INTERNACIONAIS",CANAIS INTERNACIONAIS
+http://0.0.0.0
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e7e20e8c-420e-46aa-8578-a0d029f91ae1/daekqxh-e776d59f-39c2-4acb-b67d-689959b8de77.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZTdlMjBlOGMtNDIwZS00NmFhLTg1NzgtYTBkMDI5ZjkxYWUxXC9kYWVrcXhoLWU3NzZkNTlmLTM5YzItNGFjYi1iNjdkLTY4OTk1OWI4ZGU3Ny5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.wKZn82Ayax1uWaleXFr_faYZusp2VEite8r3Qz5OvF8" group-title="CANAIS INTERNACIONAIS",ROCK TV
+https://fms-https1.mediadirect.ro/live3/_definst_/rocktv.smil/chunklist_w856094164_b1600000.m3u8?publisher=83
+
